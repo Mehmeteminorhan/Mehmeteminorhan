@@ -1,7 +1,7 @@
-## Hi, I'm Mehmet! :wave::wolf:
+# Hi, I'm Mehmet! :wave::wolf:
 
 ---
-**Msc student** &#12299;_working on non-coding RNAs, machine learning and best practices with shiny._
+## **Msc student** &#12299;_working on non-coding RNAs, machine learning and best practices with shiny._
 <br/>
 <h3 align="center"> <b>Languages and Tools:</h3>
 <p align="center">
