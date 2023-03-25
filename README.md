@@ -2,7 +2,6 @@
 
 ---
 ## **Msc student** &#12299;_working on non-coding RNAs, machine learning and best practices with shiny._
-<br/>
 <h3 align="center"> <b>Languages and Tools:</h3>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50" />
