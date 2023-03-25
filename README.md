@@ -11,8 +11,6 @@
 <img src= "https://raw.githubusercontent.com/Bioconductor/BiocStickers/devel/Bioconductor/Bioconductor.png" width="50" height="50" />
 <img src= "https://raw.githubusercontent.com/rstudio/shiny/main/man/figures/logo.png" width="50" height="50" />
 
----
-
 
 
 <h2 align="center">My GitHub Stats :chart_with_upwards_trend: </h2>
@@ -24,5 +22,5 @@
   <img align="left" alt="Mehmet's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 
-<p align="right">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mehmeteminorhan&show_icons=true&theme=light" width="450" height="180">
