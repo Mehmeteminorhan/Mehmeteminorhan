@@ -2,13 +2,14 @@
 
 ---
 ## **Msc student** &#12299;_working on non-coding RNAs, machine learning and best practices with shiny._
+
 <h3 align="center"> <b>Languages and Tools:</h3>
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50" height="50"  />
-<img src= "https://raw.githubusercontent.com/Bioconductor/BiocStickers/devel/Bioconductor/Bioconductor.png" width="50" height="50" />
-<img src= "https://raw.githubusercontent.com/rstudio/shiny/main/man/figures/logo.png" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60" height="60"  />
+<img src= "https://raw.githubusercontent.com/Bioconductor/BiocStickers/devel/Bioconductor/Bioconductor.png" width="60" height="60" />
+<img src= "https://raw.githubusercontent.com/rstudio/shiny/main/man/figures/logo.png" width="60" height="60" />
 
 
 
@@ -22,4 +23,4 @@
 </a>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehmeteminorhan&show_icons=true&theme=light" width="450" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehmeteminorhan&show_icons=true&theme=light" width="460" height="180">
