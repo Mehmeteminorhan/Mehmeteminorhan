@@ -5,11 +5,11 @@
 
 <h3 align="center"> <b>Languages and Tools:</h3>
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width=70" height=70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=70" height=70"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width=70" height=70"  />
-<img src= "https://raw.githubusercontent.com/Bioconductor/BiocStickers/devel/Bioconductor/Bioconductor.png" width=70" height=70" />
-<img src= "https://raw.githubusercontent.com/rstudio/shiny/main/man/figures/logo.png" width=70" height=70" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="70" height="70" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70" height="70"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="70" height="70"  />
+<img src= "https://raw.githubusercontent.com/Bioconductor/BiocStickers/devel/Bioconductor/Bioconductor.png" width="70" height="70" />
+<img src= "https://raw.githubusercontent.com/rstudio/shiny/main/man/figures/logo.png" width="70" height="70" />
 
 
 
@@ -23,4 +23,4 @@
 </a>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehmeteminorhan&show_icons=true&theme=light" width="70" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehmeteminorhan&show_icons=true&theme=light" width="470" height="180">
