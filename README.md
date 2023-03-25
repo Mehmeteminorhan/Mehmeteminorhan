@@ -12,17 +12,17 @@
 <img src= "https://raw.githubusercontent.com/rstudio/shiny/main/man/figures/logo.png" width="50" height="50" />
 
 ---
-<a href="https://twitter.com/mehmeteorhanhttps://twitter.com/lukasheumos">
-  <img align="right" alt="Mehmet's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
-</a>
-<a href="https://www.linkedin.com/in/mehmet-emin-orhan/">
-  <img align="right" alt="Mehmet's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
-</a>
 
 
-
-<br/>
 
 <h2 align="center">My GitHub Stats :chart_with_upwards_trend: </h2>
-<p align="center">
+<br/>
+<a href="https://twitter.com/mehmeteorhanhttps://twitter.com/lukasheumos">
+  <img align="left" alt="Mehmet's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+</a>
+<a href="https://www.linkedin.com/in/mehmet-emin-orhan/">
+  <img align="left" alt="Mehmet's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+</a>
+
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=Mehmeteminorhan&show_icons=true&theme=light" width="450" height="180">
