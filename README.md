@@ -1,5 +1,5 @@
 # 💫 About Me:
-**Msc student**  》_working on non-coding RNAs, machine learning and best practices with shiny._
+**PhD student**  》_working on non-coding RNAs, machine learning and best practices with Full Stack Developer._
 
 ## 🌐 Socials:
 [![](https://visitcount.itsvg.in/api?id=Mehmeteminorhan&icon=1&color=3)](https://visitcount.itsvg.in)
